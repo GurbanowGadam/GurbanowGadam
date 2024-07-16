@@ -20,7 +20,7 @@ Here are some of the projects I've been working on:
 ## Contact Me
 
 - **Email:** gadamgurbanaga@gmail.com
-- **LinkedIn:** [GurbanowGadam](linkedin.com/in/gadam-gurbanov-101885234)
+- **LinkedIn:** [GurbanowGadam](https://linkedin.com/in/gadam-gurbanov-101885234)
 - **Twitter:** [@GurbanowGadam](https://twitter.com/GurbanowGadam)
 
 Feel free to reach out if you have any questions or collaboration ideas!
