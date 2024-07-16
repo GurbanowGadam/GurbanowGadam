@@ -8,19 +8,18 @@ Welcome to my GitHub profile! I'm a passionate developer from Turkmenistan, work
 
 - **Name:** Gurbanow Gadam
 - **Country:** Turkmenistan
-- **Interests:** Coding, Open Source, AI, Web Development
+- **Interests:** Coding, Open Source, AI, Microservices
 
 ## My Projects
 
 Here are some of the projects I've been working on:
 
-- [Project 1](https://github.com/username/project1): Description of project 1.
-- [Project 2](https://github.com/username/project2): Description of project 2.
-- [Project 3](https://github.com/username/project3): Description of project 3.
+- [Project: cutting-picture-by-qualities](https://github.com/GurbanowGadam/cutting-picture-by-qualities): Description of cutting-picture-by-qualities.
+
 
 ## Contact Me
 
-- **Email:** example@example.com
+- **Email:** gadamgurbanaga@gmail.com
 - **LinkedIn:** [GurbanowGadam](https://www.linkedin.com/in/gurbanowgadam/)
 - **Twitter:** [@GurbanowGadam](https://twitter.com/GurbanowGadam)
 
