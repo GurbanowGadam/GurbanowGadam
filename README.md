@@ -7,8 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer from Turkmenistan, work
 ## About Me
 
 - **Name:** Gadam Gurban
-- **Country:** Turkmenistan
-- **Interests:** Coding, Open Source, AI, Microservices
+- **Country:** Bucharest, Romania
 
 ## My Projects
 
@@ -20,7 +19,7 @@ Here are some of the projects I've been working on:
 ## Contact Me
 
 - **Email:** gadamgurbanaga@gmail.com
-- **LinkedIn:** [GurbanowGadam](https://linkedin.com/in/gadam-gurbanov-101885234)
+- **LinkedIn:** [GurbanowGadam](https://www.linkedin.com/in/gadam-gurbanov/)
 - **Twitter:** [@GurbanowGadam](https://twitter.com/GadamGurban)
 
 Feel free to reach out if you have any questions or collaboration ideas!
