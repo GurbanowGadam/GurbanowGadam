@@ -1,7 +1,5 @@
 # Gadam Gurban's Profile
 
-![Committers Badge](https://user-badge.committers.top/turkmenistan_private/GurbanowGadam.svg)
-
 Welcome to my GitHub profile! I'm a passionate developer from Turkmenistan, working on various exciting projects.
 
 ## About Me
