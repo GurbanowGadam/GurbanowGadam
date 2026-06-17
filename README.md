@@ -11,6 +11,6 @@ Welcome to my GitHub profile! I'm a passionate developer from Turkmenistan, work
 
 - **Email:** gadamgurbanaga@gmail.com
 - **LinkedIn:** [GurbanowGadam](https://www.linkedin.com/in/gadam-gurbanov/)
-- **Twitter:** [@GurbanowGadam](https://twitter.com/GadamGurban)
+- **X:** [@GurbanowGadam](https://twitter.com/GadamGurban)
 
 Feel free to reach out if you have any questions or collaboration ideas!
