@@ -7,13 +7,6 @@ Welcome to my GitHub profile! I'm a passionate developer from Turkmenistan, work
 - **Name:** Gadam Gurban
 - **Country:** Bucharest, Romania
 
-## My Projects
-
-Here are some of the projects I've been working on:
-
-- [Project: cutting-picture-by-qualities](https://github.com/GurbanowGadam/cutting-picture-by-qualities): Description of cutting-picture-by-qualities.
-
-
 ## Contact Me
 
 - **Email:** gadamgurbanaga@gmail.com
